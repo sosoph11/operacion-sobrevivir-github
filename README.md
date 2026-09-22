@@ -50,7 +50,7 @@ Si todo sale bien:
 
 ☕ Café: CRÍTICO  
 🍕 Pizza: AGOTADA  
-🧠 Capacidad cerebral: 12%
+🧠 Capacidad cerebral: 10%
 
 ---
 
