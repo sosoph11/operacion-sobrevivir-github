@@ -46,6 +46,12 @@ Si todo sale bien:
 
 > 🥇 Sobreviví a GitHub sin borrar producción.
 
+## 🧃 Suministros
+
+☕ Café: CRÍTICO  
+🍕 Pizza: AGOTADA  
+🧠 Capacidad cerebral: 12%
+
 ---
 
 *Este README fue creado sin fines educativos.*
